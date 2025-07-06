@@ -1,18 +1,47 @@
 # IBM Data Science Course Notebooks
 
-This repository contains Jupyter Notebook files from the *IBM Data Science Professional Certificate* course offered on Coursera.
+This repository contains all Jupyter Notebook (.ipynb) files from the *IBM Data Science Professional Certificate* course on Coursera.
 
-## 📚 Course Overview
+## 📘 Course Contents
 
-The IBM Data Science Professional Certificate is a beginner-friendly program that introduces learners to key concepts and tools in data science, including:
+The course includes the following modules:
 
-- Python programming
-- Data analysis and visualization
+1. What is Data Science?
+2. Tools for Data Science
+3. Data Science Methodology
+4. Python for Data Science
+5. Databases and SQL for Data Science
+6. Data Analysis with Python
+7. Data Visualization with Python
+8. Machine Learning with Python
+9. Applied Data Science Capstone
+
+Each notebook in this repo corresponds to labs, assignments, or practice exercises from these modules.
+
+## 🧰 Tools and Technologies
+
+- Python
+- Jupyter Notebooks
+- Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - SQL
-- Machine learning basics
-- Working with APIs and data sets
-- Using IBM tools like Watson Studio
+- IBM Watson Studio
 
-## 📁 Repository Structure
+## 🚀 How to Use
 
-Each folder or file corresponds to a specific module or assignment in the course:
+1. Clone or download this repo.
+2. Open .ipynb files using [Jupyter Notebook](https://jupyter.org/) or [VS Code](https://code.visualstudio.com/) with the Jupyter extension.
+3. Explore and run the code cells to learn and experiment.
+
+## 📌 Notes
+
+- These notebooks are for educational and reference purposes.
+- All content is based on the IBM Data Science course.
+- If you're taking the course, it's recommended to complete the exercises on your own.
+
+## 📄 License
+
+This project is shared under the [MIT License](LICENSE).
+
+---
+
+⭐ Feel free to star this repo if you find it helpful!
